@@ -10,7 +10,6 @@ public class condition4
 	 */
 	public static void main (String args [])
 	{
-
 		int p1 = 10;
 		int p2 = 9;
 		int p3 = -1;
