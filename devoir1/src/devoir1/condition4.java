@@ -29,6 +29,8 @@ public class condition4
 		else {
 			if (p5 < p1)
 					p6 = p4;
+			if (p4 < p2)
+					p6 = p1;
 			else
 					p6 = p2;
 		}
