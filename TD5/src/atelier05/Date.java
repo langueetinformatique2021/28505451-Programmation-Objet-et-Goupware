@@ -1,4 +1,4 @@
-package cours04;
+package atelier05;
 
 import util.Keyboard;
 
