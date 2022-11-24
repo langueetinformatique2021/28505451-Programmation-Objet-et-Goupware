@@ -1,7 +1,7 @@
 package atelier8;
 /**
  * exception prédéfinie 
- * @return l'exception division par zéro 
+ * exception division par zéro 
  *
  */
 public class Division {
