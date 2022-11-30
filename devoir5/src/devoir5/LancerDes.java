@@ -7,7 +7,7 @@ public class LancerDes extends Aleat {
 	 * simulation d'un lancer de dés
 	 * 
 	 */
-	// Constructeur 
+	 
 	public LancerDes(String nom, int faces)
 	{super(faces);this.nom = nom; this.faces = faces;}
 	
